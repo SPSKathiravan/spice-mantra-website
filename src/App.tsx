@@ -39,7 +39,7 @@ function App() {
         </div>
 
         <div className="notify">
-          <p className="notify-label">Want the first whiff?</p>
+          <p className="notify-label">Keep Me Updated</p>
           <form
             className="notify-form"
             onSubmit={(e) => {
